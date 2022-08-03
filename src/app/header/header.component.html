@@ -1,0 +1,6 @@
+<header>
+    <div *ngFor="let pair of currencyPairs">
+        <span>{{pair.symbol}} {{pair.label}} {{pair.value}}</span>
+    </div>
+    <mat-icon (click)="fetchLatest()">autorenew</mat-icon>
+</header>
