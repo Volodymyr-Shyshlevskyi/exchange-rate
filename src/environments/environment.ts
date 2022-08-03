@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiKey: 'u6plG3tV9oS42nd0BSkqV6cqM3Ix68VL',
+  apiKey: 'cKGmHHmnA3JR6NjdTbNJz7jsmkTj8ShW',
   exchangeRateApiUrl: 'https://api.apilayer.com/exchangerates_data'
 };
 
